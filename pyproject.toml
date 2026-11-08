@@ -27,7 +27,7 @@ dependencies = [
     "fastmcp>=2.11.0",
     "httpx[socks]>=0.27.0,<1.0",
     'jq>=1.13.0; sys_platform != "win32"',
-    "pydantic>=2.5.0",
+    "pydantic>=2.14.2",
     "python-dotenv>=1.2.4",
     "truststore>=0.10.0",
     "websockets>=12.0",
